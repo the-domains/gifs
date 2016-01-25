@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Gifs]]></title>
         <description><![CDATA[Gifs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gifs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 14:05:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 14:05:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gifs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4074f1d-9152-4945-b568-0a1fc3af629e.jpg">]]></description>
+            <link>https://thegrid.ai/gifs/2287c16b-5247-44bc-bde2-99194e888384/index.html</link>
+            <guid isPermaLink="false">2287c16b-5247-44bc-bde2-99194e888384</guid>
+            <pubDate>Mon, 25 Jan 2016 14:04:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is Kevin]]></title>
             <description><![CDATA[<article><h1>This is Kevin</h1><p>He is my college roomate</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ce26bf756ef414e350052ffdb47d39fa8a679c4.jpg"></article>]]></description>
-            <link>undefinedthis-is-kevin/index.html</link>
+            <link>https://thegrid.ai/gifs/this-is-kevin/index.html</link>
             <guid isPermaLink="false">27eab0fb-ee50-4415-9c2b-7ac466283e53</guid>
             <pubDate>Mon, 25 Jan 2016 14:04:50 GMT</pubDate>
         </item>
